@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+
+
+    margin-top: 30px;
+     height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: -webkit-radial-gradient(#560e86, #0a0011);
+    background-size: auto;
+    
+}
+.estilo {
+    font-family: Ink Free;
+    color: #ff66cc;
+    font-size: 65px;
+    
+}
+.rotar {
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+#general {
+    
+    -webkit-box-shadow: 0px 0px 131px 0px rgba(400, 400, 400, 1);
+    -moz-box-shadow: 0px 0px 131px 0px rgba(400, 400, 400, 1);
+    box-shadow: 0px 0px 131px 0px rgba(400, 400, 400, 1);
+    margin: auto;
+    margin-top: 50px;
+    text-align: justify;
+  
+    border: 4px solid black;
+    width: 650px;
+    height: 500px;
+   background: black;
+   
+   
+}
+.cap1{
+   
+    margin-top: 97px;
+   
+    
+   font-size: 25px;
+   text-align: center;
+   margin-left:  50px;
+    
+}
+#cap2{
+      
+    float: right;
+    width: 250px;
+    height: 500px;
+    color: white;
+    margin:center;
+    margin-top: -500px;
+    
+ background-image: url("https://i.pinimg.com/736x/79/eb/7e/79eb7e2ed47a6eaa81b6c5f5b6e1b93e.jpg");
+    text-justify: auto;
+    text-align: justify;
+    font-family: Chiller;
+    font-size: 20px;
+    right: 20px;
+    left: 20px;
+    overflow: auto;
+}
+#cap3 {
+    
+    -webkit-box-shadow: 0px 0px 131px 0px rgba(400, 400, 400, 1);
+    -moz-box-shadow: 0px 0px 131px 0px rgba(400, 400, 400, 1);
+    box-shadow: 0px 0px 131px 0px rgba(400, 400, 400, 1);
+    margin: left;
+    text-justify: auto;
+    text-align: justify;
+    font-family: Chiller;
+    font-size: 30px;
+
+    width: 400px;
+    height: 500px;
+    background-image: url("https://i.pinimg.com/originals/99/16/10/991610aac1f4837b23290bf952925666.jpg");
+    background-size: cover;
+}
+
+
+letrasestilos .container span {
+    font-size: 80pt;
+    font-weight: bold;
+    position: relative;
+    font-family: "Fredoka One";
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+
+.container span::before {
+    content: var(--l);
+    position: absolute;
+    transform: scale(1.1);
+    filter: blur(15px);
+}
+
+.container span::after {
+    content: var(--l);
+    position: absolute;
+    height: 200%;
+    width: 300px;
+    top: 80%;
+    left: 0;
+    filter: blur(30px);
+    transform: rotateX(50deg);
+}
+
+.container span:hover {
+    filter: contrast(250%);
+}
+
+.container span:nth-child(1) {
+    color: #00bef8;
+}
+
+.container span:nth-child(2) {
+    color: #ff0697;
+}
+
+.container span:nth-child(3) {
+    color: #ff4d00;
+}
+
+.container span:nth-child(4) {
+    color: #ffe600;
+}
+
+.container span:nth-child(5) {
+    color: #bb00ff;
+}
+
+
