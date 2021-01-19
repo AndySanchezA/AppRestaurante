@@ -1,0 +1,190 @@
+@charset "ISO-8859-1";
+*{
+padding: 0;
+margin: 0;	
+}
+body{
+	background: url(../imagen/pedido1.jpg) top;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+#titulo{
+	width: 100%;
+	text-align: center;
+	color: #ffffff;
+	font-size: 55pt;
+	    font-family: Ink Free;
+	background-color: #F59C9C;
+	opacity: 0.9;
+}
+#etiquetas{
+	width: 1024px;
+	text-align: left;
+	color: black;
+	font-size: 20pt;
+    font-family: Ink Free;
+          margin-left: 120px;
+}
+#etiquetasizquierda{
+	
+          margin-left: 80px;
+}
+#menu{
+    background: #eb94d0;
+	background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -o-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+	-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+text-shadow: 3px 2px 1px #9daef5;
+  -webkit-box-shadow: 6px 5px 24px #666666;
+  -moz-box-shadow: 6px 5px 24px #666666;
+  box-shadow: 6px 5px 24px #666666;
+    font-family: Ink Free;
+  color: #fafafa;
+  font-size: 27px;
+  padding: 19px;
+  text-decoration: none;
+  	margin-left: 260px;
+          margin-top: -50px;
+	
+}
+#limpiar {
+	background: #eb94d0;
+	background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -o-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+	-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+text-shadow: 3px 2px 1px #9daef5;
+  -webkit-box-shadow: 6px 5px 24px #666666;
+  -moz-box-shadow: 6px 5px 24px #666666;
+  box-shadow: 6px 5px 24px #666666;
+    font-family: Ink Free;
+  color: #fafafa;
+  font-size: 27px;
+  padding: 19px;
+  text-decoration: none;
+  margin-left: 260px;
+  margin-top: 10px;
+}
+#enviar{
+   background: #eb94d0;
+	background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -o-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+	-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+text-shadow: 3px 2px 1px #9daef5;
+  -webkit-box-shadow: 6px 5px 24px #666666;
+  -moz-box-shadow: 6px 5px 24px #666666;
+  box-shadow: 6px 5px 24px #666666;
+    font-family: Ink Free;
+  color: #fafafa;
+  font-size: 27px;
+  padding: 19px;
+  text-decoration: none;
+  	margin-right:260px;
+        margin-top: -50px;
+	
+}
+#enviarlogin{
+   background: #eb94d0;
+	background-image: -webkit-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -moz-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -ms-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: -o-linear-gradient(top, #eb94d0, #2079b0);
+  background-image: linear-gradient(to bottom, #eb94d0, #2079b0);
+	-webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+text-shadow: 3px 2px 1px #9daef5;
+  -webkit-box-shadow: 6px 5px 24px #666666;
+  -moz-box-shadow: 6px 5px 24px #666666;
+  box-shadow: 6px 5px 24px #666666;
+    font-family: Ink Free;
+  color: #fafafa;
+  font-size: 27px;
+  padding: 19px;
+  text-decoration: none;
+  	margin:center;
+        margin-top: -50px;
+	
+}
+#form{
+	width: 50%;
+	height: 700px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	background-color: #EDEDED;
+	box-sizing: border-box;
+	font-size: 10pt;
+	opacity: 0.8;
+	text-shadow: 1px 1px 1px #000;
+}
+#formespacio{
+	width: 50%;
+	height: 500px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 90px;
+	margin-bottom: 3%;
+	background:url(https://media1.tenor.com/images/4d16b017a18eead73576d9a69e412f34/tenor.gif?itemid=5233659);
+	background-size: 1000px 1000px;
+        overflow: auto;
+        box-sizing: border-box;
+	font-size: 10pt;
+	opacity: 0.8;
+	text-shadow: 1px 1px 1px #000;
+}
+#formespacio2{
+	width: 50%;
+	height: 500px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 35px;
+	margin-bottom: 3%;
+	background:url(https://media1.tenor.com/images/4d16b017a18eead73576d9a69e412f34/tenor.gif?itemid=5233659);
+	background-size: 1000px 1000px;
+        overflow: auto;
+        box-sizing: border-box;
+	font-size: 10pt;
+	opacity: 0.8;
+	text-shadow: 1px 1px 1px #000;
+}
+.form input{
+	width: 100%;
+	height: 100%;
+	padding-top: 20px;
+}
+#form-a{
+	width: 50%;
+	height: 450px;
+	text-align: center;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	background-color: #EDEDED;
+	box-sizing: border-box;
+	font-size: 10pt;
+	opacity: 0.8;
+	text-shadow: 1px 1px 1px #000;
+}
+
+
