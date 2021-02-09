@@ -6,7 +6,9 @@
 - [Descripción](#resumen-del-proyecto)
 - [Consideraciones Generales](#consideraciones-generales)
 - [Definición del producto](#definición-del-producto)
+- [Participantes](#Participantes)
 - [Diagramas](#Diagramas)
+
 ---
 
 ## Preámbulo
@@ -37,6 +39,12 @@ El objetivo principal es el desarrollo de una aplicación para la comunidad y po
 ## Definición del producto
 
 Un conjunto de herramientas que sirven para la organización de un restaurante, cabe recalcar que el programa es para la gestión de platos y mesas de un restaurante.
+
+## Participantes
+
+- Sebastián Córdova "Diseñador base de datos"
+- Andy Sanchez "Programador"
+- Jhony Velazco "Diseñador"
 
 ## Diagramas
 
