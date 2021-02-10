@@ -2,7 +2,7 @@
 
 ![welcome](https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif)
 
-[Pagina Web](https://isacorecal.wixsite.com/restdishesmanagament)
+[Pagina Restdishes Management](https://isacorecal.wixsite.com/restdishesmanagament)
 
 ## Índice
 
