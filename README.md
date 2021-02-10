@@ -1,5 +1,7 @@
 # Restdishes Management
 
+![welcome](https://media.giphy.com/media/FQyQEYd0KlYQ/giphy.gif)
+
 [Pagina Web](https://isacorecal.wixsite.com/restdishesmanagament)
 
 ## Índice
