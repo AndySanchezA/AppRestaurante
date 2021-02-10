@@ -67,5 +67,5 @@ Un conjunto de herramientas que sirven para la organización de un restaurante, 
 ![Diagrama de clase](https://github.com/AndySanchezA/AppRestaurante/blob/main/Diagramas/Diagrama%20de%20Clase/DiagramaClase.PNG)
 - Diagrama de la base de datos
 
-![Diagrama de la base de datos](https://github.com/AndySanchezA/AppRestaurante/blob/main/PruebasAccesibilidad/Dise%C3%B1oBBDD.PNG)
+![Diagrama de la base de datos](https://github.com/AndySanchezA/AppRestaurante/blob/main/Diagramas/Diagrama%20BBDD/Dise%C3%B1o_BBDD.PNG)
 
